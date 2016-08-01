@@ -5,6 +5,7 @@ public class Square{
     System.out.println(x);
 
   }
+  //void method never returns anything special. They are arbitrary.
   static void square(int x){
     x = x * x;
   }
